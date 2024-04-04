@@ -12,14 +12,14 @@
   <span>Um entusiasta no desenvolvimento de aplicações fullstack</span>
   <p>Desenvolvedor de software à quatro anos, aprendendo sobre o desenvolvimento web, back end e  mobile.</p>
   <br/>
-  <div style='display: flex; gap: 10px'>
-    <img src='https://skillicons.dev/icons?i=html' width='28' height='28' />
-    <img src='https://skillicons.dev/icons?i=css' width='28' height='28' />
-    <img src='https://skillicons.dev/icons?i=javascript' width='28' height='28' />
-    <img src='https://skillicons.dev/icons?i=typescript' width='28' height='28' />
-    <img src='https://skillicons.dev/icons?i=react' width='28' height='28' />
-    <img src='https://skillicons.dev/icons?i=next' width='28' height='28' />
-    <img src='https://skillicons.dev/icons?i=python' width='28' height='28' />
+  <div style='display: flex; gap: 16px'>
+    <img src='https://skillicons.dev/icons?i=html' width='36' height='36' />
+    <img src='https://skillicons.dev/icons?i=css' width='36' height='36' />
+    <img src='https://skillicons.dev/icons?i=javascript' width='36' height='36' />
+    <img src='https://skillicons.dev/icons?i=typescript' width='36' height='36' />
+    <img src='https://skillicons.dev/icons?i=react' width='36' height='36' />
+    <img src='https://skillicons.dev/icons?i=next' width='36' height='36' />
+    <img src='https://skillicons.dev/icons?i=python' width='36' height='36' />
   </div>
 </div>
 <br/>
