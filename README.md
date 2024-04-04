@@ -1,15 +1,11 @@
 <h1 style='font-size: 32px; color: #fafafa'>Rodrigo Mesquita</h1>
 <span style='font-size: 14px; color: #d4d4d8; font-weight: 500'>Desenvolvedor fullstack</span>
 
+
 <div style='display: flex; align-items: center; gap: 10px; margin-top: 24px' >
-  <a href='https://www.linkedin.com/in/rodrigo-mesquita-/' target='_black' style="background: #27272a; color: white; padding: 6px 16px; font-size: 12px; border-radius: 6px; font-weight: 500; display: flex; align-items: center; gap: 6px;" >
-  <img src='https://skillicons.dev/icons?i=linkedin' width='18' height='18' />
-  Rodrigo Mesquita
-  </a>
-  <a href='mailto:dev.rodrigomesquita@gmail.com' target='_black' style="background: #27272a; color: white; padding: 6px 16px; font-size: 12px; border-radius: 6px; font-weight: 500; display: flex; align-items: center; gap: 6px;" >
-  <img src='https://skillicons.dev/icons?i=gmail' width='18' height='18' />
-  dev.rodrigomesquita@gmail.com
-  </a>
+
+<a href='https://www.linkedin.com/in/rodrigo-mesquita-/'>![Build Status](https://img.shields.io/badge/Rodrigo%20Mesquita-27272a?logo=linkedin)</a>
+<a href='mailto:dev.rodrigomesquita@gmail.com'>![Build Status](https://img.shields.io/badge/dev.rodrigomesquita@gmail.com-27272a?logo=gmail)</a>
 </div>
 
 <div style='display: flex; flex-direction: column; margin-top: 24px'>
