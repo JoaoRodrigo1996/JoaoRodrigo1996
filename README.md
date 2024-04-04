@@ -6,7 +6,7 @@
   <img src='https://skillicons.dev/icons?i=linkedin' width='18' height='18' />
   Rodrigo Mesquita
   </a>
-  <a href='#' target='_black' style="background: #27272a; color: white; padding: 6px 16px; font-size: 12px; border-radius: 6px; font-weight: 500; display: flex; align-items: center; gap: 6px;" >
+  <a href='mailto:dev.rodrigomesquita@gmail.com' target='_black' style="background: #27272a; color: white; padding: 6px 16px; font-size: 12px; border-radius: 6px; font-weight: 500; display: flex; align-items: center; gap: 6px;" >
   <img src='https://skillicons.dev/icons?i=gmail' width='18' height='18' />
   dev.rodrigomesquita@gmail.com
   </a>
