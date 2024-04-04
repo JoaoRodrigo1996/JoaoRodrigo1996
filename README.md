@@ -1,21 +1,32 @@
-<h1 align="left">Rodrigo Mesquita</h1><p align="left"><img src="https://komarev.com/ghpvc/?username=joaorodrigo1996&label=Profile%20views&color=9a3412&style=flat" alt="joaorodrigo1996" /> </p>
--Desenvolvedor fullstack*
+<h1 style='font-size: 32px; color: #fafafa'>Rodrigo Mesquita</h1>
+<span style='font-size: 14px; color: #d4d4d8; font-weight: 500'>Desenvolvedor fullstack</span>
 
-**dev.rodrigomesquita@gmail.com**
+<div style='display: flex; align-items: center; gap: 10px; margin-top: 24px' >
+  <a href='https://www.linkedin.com/in/rodrigo-mesquita-/' target='_black' style="background: #27272a; color: white; padding: 6px 16px; font-size: 12px; border-radius: 6px; font-weight: 500; display: flex; align-items: center; gap: 6px;" >
+  <img src='https://skillicons.dev/icons?i=linkedin' width='18' height='18' />
+  Rodrigo Mesquita
+  </a>
+  <a href='#' target='_black' style="background: #27272a; color: white; padding: 6px 16px; font-size: 12px; border-radius: 6px; font-weight: 500; display: flex; align-items: center; gap: 6px;" >
+  <img src='https://skillicons.dev/icons?i=gmail' width='18' height='18' />
+  dev.rodrigomesquita@gmail.com
+  </a>
+</div>
 
-<h3 align="left">Tecnologias:</h3>
-<p align="left">
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="background-color:#FFF"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a>
+<div style='display: flex; flex-direction: column; margin-top: 24px'>
+  <span>Um entusiasta no desenvolvimento de aplicações fullstack</span>
+  <p>Desenvolvedor de software à quatro anos, aprendendo sobre o desenvolvimento web, back end e  mobile.</p>
+  <div style='display: flex; gap: 10px; margin-top: 10px'>
+    <img src='https://skillicons.dev/icons?i=html' width='28' height='28' />
+    <img src='https://skillicons.dev/icons?i=css' width='28' height='28' />
+    <img src='https://skillicons.dev/icons?i=javascript' width='28' height='28' />
+    <img src='https://skillicons.dev/icons?i=typescript' width='28' height='28' />
+    <img src='https://skillicons.dev/icons?i=react' width='28' height='28' />
+    <img src='https://skillicons.dev/icons?i=next' width='28' height='28' />
+    <img src='https://skillicons.dev/icons?i=python' width='28' height='28' />
+  </div>
+</div>
 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaorodrigo1996&show_icons=true&locale=en&layout=compact" alt="joaorodrigo1996" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaorodrigo1996&show_icons=true&locale=en" alt="joaorodrigo1996" /></p>
+<div style='display: flex; items:start; gap: 10px; margin-top: 24px' >
+  <p><img src="https://github-readme-stats.vercel.app/api?username=joaorodrigo1996&show_icons=true&locale=pt-BR&theme=dark&hide_border=true" alt="joaorodrigo1996" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaorodrigo1996&show_icons=true&locale=pt-BR&layout=compact&theme=dark&hide_border=true" alt="joaorodrigo1996" /></p>
+</div>
