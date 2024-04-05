@@ -4,7 +4,7 @@
 <br/>
 <div style='display: flex; align-items: center; gap: 10px;  ' >
 
-<a href='https://www.linkedin.com/in/rodrigo-mesquita-/'>![Build Status](https://img.shields.io/badge/Rodrigo%20Mesquita-27272a?logo=linkedin)</a>
+<a href='https://www.linkedin.com/in/rodrigo-mesquita-/' target='_blank' >![Build Status](https://img.shields.io/badge/Rodrigo%20Mesquita-27272a?logo=linkedin)</a>
 <a href='mailto:dev.rodrigomesquita@gmail.com'>![Build Status](https://img.shields.io/badge/dev.rodrigomesquita@gmail.com-27272a?logo=gmail)</a>
 </div>
 <br/>
