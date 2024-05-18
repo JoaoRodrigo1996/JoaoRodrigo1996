@@ -9,7 +9,7 @@
 </div>
 <br/>
 <div style='display: flex; flex-direction: column'>
-  <span>Um entusiasta no desenvolvimento de aplicações fullstack</span>
+  <span>Um entusiasta no desenvolvimento de aplicações front-end</span>
   <p>Desenvolvedor de software à quatro anos, aprendendo sobre o desenvolvimento web, back end e  mobile.</p>
   <br/>
   <div style='display: flex; gap: 16px'>
