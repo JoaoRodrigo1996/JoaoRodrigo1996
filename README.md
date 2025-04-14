@@ -1,29 +1,45 @@
-<h1 style='font-size: 32px; color: #fafafa'>Rodrigo Mesquita</h1>
-<span style='font-size: 14px; color: #d4d4d8; font-weight: 500'>Desenvolvedor fullstack</span>
-<br/>
-<br/>
-<div style='display: flex; align-items: center; gap: 10px;  ' >
+<h1 align="left">👩‍💻 Rodrigo Mesquita</h1>
+<p align="left">
+  <em>Software Engineer · 🇧🇷 based in Barra Mansa, Rio de Janeiro</em>
+</p>
 
-<a href='https://www.linkedin.com/in/rodrigo-mesquita-/' target='_blank' >![Build Status](https://img.shields.io/badge/Rodrigo%20Mesquita-27272a?logo=linkedin)</a>
-<a href='mailto:dev.rodrigomesquita@gmail.com'>![Build Status](https://img.shields.io/badge/dev.rodrigomesquita@gmail.com-27272a?logo=gmail)</a>
+<p align="left">
+  <code>Python</code> • <code>JavaScript</code> • <code>TypeScript</code> • <code>React.js</code> • <code>Node.js</code> • <code>NestJS</code> • <br/>
+  <code>MongoDB</code> • <code>Postgres</code> • <code>Docker</code> • <code>MySQL</code>
+</p>
+
+---
+
+### 💡 About me
+
+ I like clean code, and tests!  
+ Always chasing performance and scalability!  
+ Create applications for better user experience!  
+ Learning AI!  
+
+---
+
+### 📈 GitHub Stats
+
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoRodrigo1996&show_icons=true&theme=dark&hide_border=true&count_private=true&hide_title=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoRodrigo1996&layout=compact&theme=dark&hide_border=true"/>
 </div>
-<br/>
-<div style='display: flex; flex-direction: column'>
-  <span>Um entusiasta no desenvolvimento de aplicações front-end</span>
-  <p>Desenvolvedor de software à quatro anos, aprendendo sobre o desenvolvimento web, back end e  mobile.</p>
-  <br/>
-  <div style='display: flex; gap: 16px'>
-    <img src='https://skillicons.dev/icons?i=html' width='36' height='36' />
-    <img src='https://skillicons.dev/icons?i=css' width='36' height='36' />
-    <img src='https://skillicons.dev/icons?i=javascript' width='36' height='36' />
-    <img src='https://skillicons.dev/icons?i=typescript' width='36' height='36' />
-    <img src='https://skillicons.dev/icons?i=react' width='36' height='36' />
-    <img src='https://skillicons.dev/icons?i=next' width='36' height='36' />
-    <img src='https://skillicons.dev/icons?i=python' width='36' height='36' />
-  </div>
-</div>
-<br/>
-<div style='display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 24px' >
-  <p><img src="https://github-readme-stats.vercel.app/api?username=joaorodrigo1996&show_icons=true&locale=pt-BR&theme=dark&hide_border=true" alt="joaorodrigo1996" /></p>
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaorodrigo1996&show_icons=true&locale=pt-BR&layout=compact&theme=dark&hide_border=true" alt="joaorodrigo1996" /></p>
-</div>
+
+---
+
+### 🔗 Let's connect
+
+<p align="left">
+  <a href="https://x.com/Rodrigo52340029" target="_blank">
+    <img src="https://img.shields.io/badge/-0245A4?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="mailto:dev.rodrigomesquita@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0245A4?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ananeridev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0245A4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
