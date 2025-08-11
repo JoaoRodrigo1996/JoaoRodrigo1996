@@ -11,8 +11,7 @@
 ---
 
 ### 💡 About me
-
- I like clean code, and tests!  
+ 
  Always chasing performance and scalability!  
  Create applications for better user experience!  
  Learning AI!  
